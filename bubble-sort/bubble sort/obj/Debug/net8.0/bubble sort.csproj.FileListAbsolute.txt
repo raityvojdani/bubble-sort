@@ -1,0 +1,14 @@
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\bin\Debug\net8.0\bubble sort.exe
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\bin\Debug\net8.0\bubble sort.deps.json
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\bin\Debug\net8.0\bubble sort.runtimeconfig.json
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\bin\Debug\net8.0\bubble sort.dll
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\bin\Debug\net8.0\bubble sort.pdb
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\obj\Debug\net8.0\bubble sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\obj\Debug\net8.0\bubble sort.AssemblyInfoInputs.cache
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\obj\Debug\net8.0\bubble sort.AssemblyInfo.cs
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\obj\Debug\net8.0\bubble sort.csproj.CoreCompileInputs.cache
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\obj\Debug\net8.0\bubble sort.dll
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\obj\Debug\net8.0\refint\bubble sort.dll
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\obj\Debug\net8.0\bubble sort.pdb
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\obj\Debug\net8.0\bubble sort.genruntimeconfig.cache
+C:\Users\Raity\Desktop\c#\bubble-sort\bubble sort\obj\Debug\net8.0\ref\bubble sort.dll
