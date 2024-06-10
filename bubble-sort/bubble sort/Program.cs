@@ -1,30 +1,36 @@
-﻿
-Console.Write("1nter numbers:");
-int[] number = Console.ReadLine().Split(',').Select(int.Parse).ToArray();
-sort();
+using System;
+using System.Linq;
 
-
-void sort()
+class Program
 {
-
-    for (int i = 0; i <= Math.Ceiling(Convert.ToDecimal(number.Length) / 2); i++)
+    static void Main()
     {
-        for (int j = 0; j < number.Length - 1; j++)
+        Console.Write("Enter numbers separated by commas: ");
+        int[] numbers = Console.ReadLine().Split(',').Select(int.Parse).ToArray();
+
+        BubbleSort(numbers);
+
+        Console.WriteLine("Sorted numbers:");
+        foreach (int a in numbers)
         {
-            if (number[j] > number[j + 1])
-            {
-                int temp = number[j];
-                number[j] = number[j + 1];
-                number[j + 1] = temp;
-            }
+            Console.WriteLine(a);
         }
     }
-    log();
-}
-void log()
-{
-    foreach (int num in number)
+
+    static void BubbleSort(int[] numbers)
     {
-        Console.WriteLine($"sorted:{num}");
+        int n = numbers.Length;
+        for (int j = 0; j < n - 1; j++)
+        {
+            for (int i = 0; i < n - j - 1; i++)
+            {
+                if (numbers[i] > numbers[i + 1])
+                {
+                    int temp = numbers[i];
+                    numbers[i] = numbers[i + 1];
+                    numbers[i + 1] = temp;
+                }
+            }
+        }
     }
 }
