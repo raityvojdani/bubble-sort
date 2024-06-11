@@ -7,7 +7,6 @@ class Program
     {
         Console.Write("Enter numbers separated by commas: ");
         int[] numbers = Console.ReadLine().Split(',').Select(int.Parse).ToArray();
-
         BubbleSort(numbers);
 
         Console.WriteLine("Sorted numbers:");
