@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raity\\Desktop\\c#\\bubble-sort\\bubble sort\\bubble sort.csproj",
+      "projectUniqueName": "C:\\Users\\Raity\\Desktop\\g\\bubble-sort\\bubble-sort\\bubble sort\\bubble sort.csproj",
       "projectName": "bubble sort",
-      "projectPath": "C:\\Users\\Raity\\Desktop\\c#\\bubble-sort\\bubble sort\\bubble sort.csproj",
+      "projectPath": "C:\\Users\\Raity\\Desktop\\g\\bubble-sort\\bubble-sort\\bubble sort\\bubble sort.csproj",
       "packagesPath": "C:\\Users\\Raity\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raity\\Desktop\\c#\\bubble-sort\\bubble sort\\obj\\",
+      "outputPath": "C:\\Users\\Raity\\Desktop\\g\\bubble-sort\\bubble-sort\\bubble sort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raity\\AppData\\Roaming\\NuGet\\NuGet.Config"
